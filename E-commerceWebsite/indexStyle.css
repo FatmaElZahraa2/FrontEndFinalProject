@@ -1,15 +1,3 @@
-:root {
-    --first-color: #00797a;
-    --first-color-alt: #f8f9fb;
-    --second-color: #ffe3bb;
-    --title-color: #211e1d;
-    --text-color: #465b54;
-    --text-color-light: #90908f;
-    --body-color: #feffff;
-    --container-color: #efeff0;
-    --border-color: #c7e4d0;
-    --border-color-alt: #e4e7e0;
-}
 
 * {
     margin: 0;
@@ -143,4 +131,5 @@ ul {
         margin-bottom: 1rem;
     }
 }
+
 
